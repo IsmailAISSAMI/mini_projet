@@ -1,0 +1,7 @@
+font = oswald 
+size = 51
+bold
+
+
+rouge 255,0,41
+bleu 0,58,100
